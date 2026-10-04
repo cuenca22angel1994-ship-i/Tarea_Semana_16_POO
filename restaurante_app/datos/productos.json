@@ -1,0 +1,32 @@
+[
+    {
+        "codigo": "P001",
+        "nombre": "Hamburguesa",
+        "precio": 3.5,
+        "categoria": "Comida Rápida"
+    },
+    {
+        "codigo": "P002",
+        "nombre": "Pincho de camarón",
+        "precio": 4.0,
+        "categoria": "Mariscos"
+    },
+    {
+        "codigo": "P003",
+        "nombre": "Chuleta a la BBQ",
+        "precio": 6.0,
+        "categoria": "Carnes"
+    },
+    {
+        "codigo": "P004",
+        "nombre": "Conchas asadas",
+        "precio": 9.5,
+        "categoria": "Plato fuerte"
+    },
+    {
+        "codigo": "P005",
+        "nombre": "Jugo de Maracuyá",
+        "precio": 2.0,
+        "categoria": "bebida"
+    }
+]
